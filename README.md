@@ -1,2 +1,3 @@
 # ayush-demo
-this is practice repo
+this is practice repo.
+Author- Ayush Mishra
